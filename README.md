@@ -44,6 +44,6 @@ In this dynamic presentation, we aim to equip C# developers with the knowledge a
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| Louisville .NET Meetup | Louisvile, KY | December 21, 2023 | 7:00 PM EST | Akkodis | Availalbe Afterwards |
+| Louisville .NET Meetup | Louisville, KY | December 21, 2023 | 7:00 PM EST | Akkodis | [Slides](\presentations\NewHorizonsForCSharpDevelopers_2023_LouDotNet.pdf) <br> [Demos](\demos) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Comprehensive%20Exploration%20of%20New%20Horizons%20for%20C#%20Developers) to have Chad present this session at your event.
